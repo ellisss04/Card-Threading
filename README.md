@@ -1,6 +1,8 @@
 # Card-Threading
 
 This project is a Java-based multi-threaded card playing simulation, implementing thread-safe classes for cards, players, and a card game. The simulation follows a ring topology where players and card decks form a circular structure. Players aim to collect four cards of the same value to win the game.
+
+This was a pair programming project I completed with @be-nny https://github.com/be-nny
 ## Features
 
 * Thread-safe implementation of Card class
